@@ -44,13 +44,3 @@
 
 1. 确保已安装Python和Pygame库
 2. 运行 `python student_homework.py` 启动游戏
-
-## 构建可执行文件
-
-可以使用PyInstaller将游戏打包为独立的可执行文件：
-
-```
-pyinstaller --onefile --windowed student_homework.py
-```
-
-构建后的可执行文件将位于 `dist/` 目录中。
