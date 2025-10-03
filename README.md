@@ -37,8 +37,6 @@
 - `hand_right.png`：右手图片
 - `teacher_back.png`：老师背影图片
 - `teacher_face.png`：老师正面图片
-- `build/`：构建目录
-- `dist/`：发布目录
 
 ## 安装和运行
 
